@@ -1,0 +1,381 @@
+canonical_identifier: bkk:krp/KR6i0001/v1
+canonical_location: https://kanripo.org/bkk/KR6i0001/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 賢劫經
+  identifiers:
+    alt_id:
+    - T14n0425
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0425.xml
+    old_id: T14n0425
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 宮
+  label: 宮
+  source_xml_id: wit5
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 聖
+  label: 聖
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0001_000.yaml, hash: 'sha256:359640bea8ba075d885599153e323a35cf30669b78b8a906a45c320a1cd7e717'}
+  - {seq: 1, filename: KR6i0001_001.yaml, hash: 'sha256:8dc3293a7f0dbd3671bbf0df9cbfae9a6d2465fdda518e65cb68b8c5af0f4359'}
+  - {seq: 2, filename: KR6i0001_002.yaml, hash: 'sha256:b2a08b80ae3809351765ec028e32581b3f555a07848b9644ecfb27e7fc7add87'}
+  - {seq: 3, filename: KR6i0001_003.yaml, hash: 'sha256:e5f1ba8ba035fe3d1aaca3e44b3c36569ec0948a9d9226a8decc5e47227261d3'}
+  - {seq: 4, filename: KR6i0001_004.yaml, hash: 'sha256:3ec4d33fd2ed769fc1dffdbcedf29e250be9f7d6e0f40d0ca7942c3f0c251813'}
+  - {seq: 5, filename: KR6i0001_005.yaml, hash: 'sha256:22892dc529260d88b98a5c3c15b438e6ff29e687d978cc49973dea880d0cdc74'}
+  - {seq: 6, filename: KR6i0001_006.yaml, hash: 'sha256:dd8deec206b50ca7680cdf0db52e34d1b0dfffe477c00eba439eafc3382e5377'}
+  - {seq: 7, filename: KR6i0001_007.yaml, hash: 'sha256:a97c706ed39848e0be2a895cb237b04b7c4ad21d5c74fb2dbfd63f9682b6d476'}
+  - {seq: 8, filename: KR6i0001_008.yaml, hash: 'sha256:0d2a42a205ce625a885fe19fdb7748289b298875e868793d28ae19a4757995be'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0001_001.markers.yaml, hash: 'sha256:9c0aadcef2a7f16d0da8199793551dd77a043ea443f933ba0461931ff1429320'}
+  - {seq: 2, role: markers, filename: assets/KR6i0001_002.markers.yaml, hash: 'sha256:da0e5ee0b6b9358bc526a878d6f4449c6f0c9e8f076de868da50036d8524927b'}
+  - {seq: 3, role: markers, filename: assets/KR6i0001_003.markers.yaml, hash: 'sha256:c15ee69cff34cd353f1219c13a0e4bc165ab2010c2b38074e6a43aede56f4848'}
+  - {seq: 4, role: markers, filename: assets/KR6i0001_004.markers.yaml, hash: 'sha256:db546795d21595fb5b283286132f518107ff5c51e6025a6571e002146b7a1002'}
+  - {seq: 5, role: markers, filename: assets/KR6i0001_005.markers.yaml, hash: 'sha256:2e5c588a0fd667ffe1c52ef1db4784ce597c360f6a59ce45044a3cd3cd89bdee'}
+  - {seq: 6, role: markers, filename: assets/KR6i0001_006.markers.yaml, hash: 'sha256:914ebe551cd9e7c0d2b6c2b44424904118f59c1033cf8d27da68843e06b7d544'}
+  - {seq: 7, role: markers, filename: assets/KR6i0001_007.markers.yaml, hash: 'sha256:7c112a393b568efa119eacb88867b35008c54823269c7315cc422eb29b5cb07f'}
+  - {seq: 8, role: markers, filename: assets/KR6i0001_008.markers.yaml, hash: 'sha256:10318f1ed6c0128b405545fbe73adfa6aad42676f32258d519c1e12caa634f3e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0001_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12647
+  label: 賢劫經卷第一亦名颰陀劫三昧，晉曰賢劫定意經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0001_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 問三昧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0001_T_001-mulu-2
+    span:
+    - body
+    - 4741
+    - 4741
+  label: 2 行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0001_T_001-mulu-3
+    span:
+    - body
+    - 6919
+    - 6919
+  label: 3 四事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0001_T_001-mulu-4
+    span:
+    - body
+    - 7639
+    - 7639
+  label: 4 法師品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0001_T_001-mulu-5
+    span:
+    - body
+    - 11268
+    - 11268
+  label: 5 法供養品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0001_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11006
+  label: 賢劫經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0001_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 諸度無極品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0001_T_002-mulu-2
+    span:
+    - body
+    - 2120
+    - 2120
+  label: 7 習行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0001_T_002-mulu-3
+    span:
+    - body
+    - 6263
+    - 6263
+  label: 8 無際品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0001_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 12543
+  label: 賢劫經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0001_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 聞持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0001_T_003-mulu-2
+    span:
+    - body
+    - 4611
+    - 4611
+  label: 10 神通品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0001_T_003-mulu-3
+    span:
+    - body
+    - 9066
+    - 9066
+  label: 11 三十二相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0001_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9459
+  label: 賢劫經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0001_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 12 順時品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0001_T_004-mulu-2
+    span:
+    - body
+    - 3568
+    - 3568
+  label: 13 三十七品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0001_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 10953
+  label: 賢劫經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0001_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 14 寂然度無極品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0001_T_005-mulu-2
+    span:
+    - body
+    - 4530
+    - 4530
+  label: 15 十種力品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0001_T_005-mulu-3
+    span:
+    - body
+    - 5781
+    - 5781
+  label: 16 四無所畏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0001_T_005-mulu-4
+    span:
+    - body
+    - 7587
+    - 7587
+  label: 17 十八不共品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0001_T_005-mulu-5
+    span:
+    - body
+    - 9937
+    - 9937
+  label: 18 方便品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0001_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7859
+  label: 賢劫經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0001_T_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 19 八等品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0001_T_006-mulu-2
+    span:
+    - body
+    - 3975
+    - 3975
+  label: 20 千佛名號品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0001_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 11110
+  label: 賢劫經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0001_T_007-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 21 千佛興立品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0001_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 9387
+  label: 賢劫經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0001_T_008-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 22 千佛發意品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0001_T_008-mulu-2
+    span:
+    - body
+    - 6274
+    - 6274
+  label: 23 歎古品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0001_T_008-mulu-3
+    span:
+    - body
+    - 8358
+    - 8358
+  label: 24 囑累品
+  type: mulu
+  level: 1
+hash: sha256:774dfc85783ec8e4101ef1be5c043424925c4f63b756b711902ae97df27877fa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
